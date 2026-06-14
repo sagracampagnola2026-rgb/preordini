@@ -1,48 +1,1016 @@
 [
-  {"id":1,"piatto":"Gnocchi al pomodoro","categoria":"Primi","prezzo":6},
-  {"id":2,"piatto":"Gnocchi al ragù","categoria":"Primi","prezzo":7},
-  {"id":3,"piatto":"Gnocchi al ragù d'anatra","categoria":"Primi","prezzo":7},
-  {"id":4,"piatto":"Gnocchi al ragù di cinghiale","categoria":"Primi","prezzo":7},
-  {"id":5,"piatto":"Penne al pomodoro","categoria":"Primi","prezzo":6},
-  {"id":6,"piatto":"Penne al ragù","categoria":"Primi","prezzo":7},
-  {"id":7,"piatto":"Penne al ragù d'anatra","categoria":"Primi","prezzo":7},
-  {"id":8,"piatto":"Penne al ragù di cinghiale","categoria":"Primi","prezzo":7},
-  {"id":9,"piatto":"Bigoli al pomodoro","categoria":"Primi","prezzo":6},
-  {"id":10,"piatto":"Bigoli al ragù","categoria":"Primi","prezzo":7},
-  {"id":11,"piatto":"Bigoli al ragù d'anatra","categoria":"Primi","prezzo":7},
-  {"id":12,"piatto":"Bigoli al ragù di cinghiale","categoria":"Primi","prezzo":7},
-  {"id":13,"piatto":"Bigoli porcini e salsiccia","categoria":"Primi","prezzo":7},
-  {"id":14,"piatto":"Spaghetti allo scoglio","categoria":"Primi","prezzo":10},
-  {"id":15,"piatto":"Carne salada","categoria":"Secondi","prezzo":10},
-  {"id":16,"piatto":"Piatto freddo","categoria":"Secondi","prezzo":9},
-  {"id":17,"piatto":"Menù bambini","categoria":"Secondi","prezzo":6},
-  {"id":18,"piatto":"1/2 Galletto ai ferri","categoria":"Secondi","prezzo":7},
-  {"id":19,"piatto":"Ossetti ai ferri","categoria":"Secondi","prezzo":9},
-  {"id":20,"piatto":"Salsicce ai ferri","categoria":"Secondi","prezzo":8},
-  {"id":21,"piatto":"Grigliata mista","categoria":"Secondi","prezzo":9},
-  {"id":22,"piatto":"Bistecca di cavallo","categoria":"Secondi","prezzo":10},
-  {"id":23,"piatto":"Tagliata di cavallo rucola e grana","categoria":"Secondi","prezzo":10},
-  {"id":24,"piatto":"Spezzatino di cinghiale","categoria":"Secondi","prezzo":10},
-  {"id":25,"piatto":"Tris di baccalà","categoria":"Secondi","prezzo":10},
-  {"id":27,"piatto":"Formaggi misti","categoria":"Secondi","prezzo":6},
-  {"id":28,"piatto":"Patatine fritte","categoria":"Contorni","prezzo":3},
-  {"id":29,"piatto":"Fagioli con cipolla","categoria":"Contorni","prezzo":3},
-  {"id":30,"piatto":"Fagioli senza cipolla","categoria":"Contorni","prezzo":3},
-  {"id":31,"piatto":"Insalata mista","categoria":"Contorni","prezzo":3},
-  {"id":32,"piatto":"Aggiunta polenta","categoria":"Aggiunte","prezzo":1},
-  {"id":33,"piatto":"Aggiunta pane","categoria":"Aggiunte","prezzo":1},
-  {"id":34,"piatto":"Rabosello 1 L","categoria":"Vino","prezzo":6},
-  {"id":35,"piatto":"Rabosello 1/2 L","categoria":"Vino","prezzo":3},
-  {"id":36,"piatto":"Prosecco 1 L","categoria":"Vino","prezzo":6},
-  {"id":37,"piatto":"Prosecco 1/2 L","categoria":"Vino","prezzo":3},
-  {"id":38,"piatto":"Vino rosso da pasto 1 L","categoria":"Vino","prezzo":5},
-  {"id":39,"piatto":"Vino rosso da pasto 1/2 L","categoria":"Vino","prezzo":3},
-  {"id":40,"piatto":"Acqua naturale 1/2 L","categoria":"Bibite","prezzo":1},
-  {"id":41,"piatto":"Acqua gassata 1/2 L","categoria":"Bibite","prezzo":1},
-  {"id":42,"piatto":"Birra alla spina","categoria":"Bibite","prezzo":3},
-  {"id":43,"piatto":"Coca cola","categoria":"Bibite","prezzo":2},
-  {"id":44,"piatto":"Fanta","categoria":"Bibite","prezzo":2},
-  {"id":45,"piatto":"The al limone","categoria":"Bibite","prezzo":2},
-  {"id":46,"piatto":"The alla pesca","categoria":"Bibite","prezzo":2},
-  {"id":65,"piatto":"bicchiere vino","categoria":"Vino","prezzo":1}
+  {
+    "id": 64,
+    "piatto": "FUSILLI POMODORO NO GLUTINE",
+    "categoria": "primi",
+    "prezzo": 5.0
+  },
+  {
+    "id": 74,
+    "piatto": "supplemento 1 pane",
+    "categoria": "secondi",
+    "prezzo": 0.5
+  },
+  {
+    "id": 141,
+    "piatto": "Acqua brillante lattina",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 125,
+    "piatto": "Birra rossa media (40cl)",
+    "categoria": "bar",
+    "prezzo": 5.5
+  },
+  {
+    "id": 164,
+    "piatto": "Vino bicchiere rabosello",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 183,
+    "piatto": "Donny",
+    "categoria": "Vario",
+    "prezzo": 1.6
+  },
+  {
+    "id": 188,
+    "piatto": "Ghiacciolo",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 207,
+    "piatto": "Vegana alle carote",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 236,
+    "piatto": "Gnocchi Cremosi ai Peperoni",
+    "categoria": "primi",
+    "prezzo": 6.0
+  },
+  {
+    "id": 238,
+    "piatto": "Speghetti Cremosi ai Peperoni",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 50,
+    "piatto": "Spaghetti Boscaiola",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 1,
+    "piatto": "Spaghetti Amatriciana",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 115,
+    "piatto": "Acqua frizzante 1 litro",
+    "categoria": "bar",
+    "prezzo": 1.5
+  },
+  {
+    "id": 237,
+    "piatto": "Penne Cremoso ai Peperoni",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 5,
+    "piatto": "Grigliata mista con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 8.5
+  },
+  {
+    "id": 54,
+    "piatto": "Grigliata solo costine con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 8.5
+  },
+  {
+    "id": 7,
+    "piatto": "Petto di Pollo con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 6.5
+  },
+  {
+    "id": 56,
+    "piatto": "Menu Bimbi wustel con patatine",
+    "categoria": "secondi",
+    "prezzo": 5.0
+  },
+  {
+    "id": 58,
+    "piatto": "Baccalà alla vicentina con 2 polenta",
+    "categoria": "secondi",
+    "prezzo": 12.0
+  },
+  {
+    "id": 62,
+    "piatto": "PESCE FRITTO CON 1 POLENTA NO GLUTINE PIATTO VERDE",
+    "categoria": "secondi",
+    "prezzo": 11.0
+  },
+  {
+    "id": 53,
+    "piatto": "tagliata affumicata di cavallo (Piatto Freddo) con rucola e grana con 1 pane",
+    "categoria": "secondi",
+    "prezzo": 9.0
+  },
+  {
+    "id": 73,
+    "piatto": "Bis formaggi con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 5.0
+  },
+  {
+    "id": 76,
+    "piatto": "Fagioli",
+    "categoria": "contorni",
+    "prezzo": 2.5
+  },
+  {
+    "id": 79,
+    "piatto": "Insalata mista",
+    "categoria": "contorni",
+    "prezzo": 2.5
+  },
+  {
+    "id": 202,
+    "piatto": "Mousse al limone",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 49,
+    "piatto": "Penne misto mare",
+    "categoria": "primi",
+    "prezzo": 7.5
+  },
+  {
+    "id": 2,
+    "piatto": "Spaghetti Ragù",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 52,
+    "piatto": "Spezzatino di Cavallo con 2 polenta",
+    "categoria": "secondi",
+    "prezzo": 9.0
+  },
+  {
+    "id": 43,
+    "piatto": "Gnocchi Amatriciana",
+    "categoria": "primi",
+    "prezzo": 6.0
+  },
+  {
+    "id": 46,
+    "piatto": "Gnocchi misto mare",
+    "categoria": "primi",
+    "prezzo": 7.5
+  },
+  {
+    "id": 65,
+    "piatto": "FUSILLI BOSCAIOLA NO GLUTINE",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 66,
+    "piatto": "FUSILLI MATRICIANA NO GLUTINE",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 6,
+    "piatto": "Bistecca di puledro con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 9.5
+  },
+  {
+    "id": 57,
+    "piatto": "Polpette vegetariane al forno con patate fritte",
+    "categoria": "secondi",
+    "prezzo": 8.0
+  },
+  {
+    "id": 59,
+    "piatto": "Baccalà mantecato con 2 polenta",
+    "categoria": "secondi",
+    "prezzo": 12.0
+  },
+  {
+    "id": 61,
+    "piatto": "Pesce fritto con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 11.0
+  },
+  {
+    "id": 69,
+    "piatto": "Orata alla griglia + 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 10.0
+  },
+  {
+    "id": 72,
+    "piatto": "Piatto freddo bresaola+rucola+grana con 1 pane",
+    "categoria": "secondi",
+    "prezzo": 8.0
+  },
+  {
+    "id": 175,
+    "piatto": "Cono Panna",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 9,
+    "piatto": "Spaghetti misto mare",
+    "categoria": "primi",
+    "prezzo": 7.5
+  },
+  {
+    "id": 67,
+    "piatto": "FUSILLI RAGU' NO GLUTINE",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 55,
+    "piatto": "Grigliata solo salsiccia con 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 8.5
+  },
+  {
+    "id": 63,
+    "piatto": "BACCALA' ALLA VICENTINA CON 2 POLENTA NO GLUTINE PIATTO VERDE",
+    "categoria": "secondi",
+    "prezzo": 12.0
+  },
+  {
+    "id": 171,
+    "piatto": "Vino prosecco 1 litro",
+    "categoria": "Vario",
+    "prezzo": 7.0
+  },
+  {
+    "id": 60,
+    "piatto": "Bis di baccalà con 2 polenta",
+    "categoria": "secondi",
+    "prezzo": 14.0
+  },
+  {
+    "id": 70,
+    "piatto": "Branzino alla griglia + 1 polenta",
+    "categoria": "secondi",
+    "prezzo": 10.0
+  },
+  {
+    "id": 181,
+    "piatto": "Sansonì",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 71,
+    "piatto": "Piatto freddo bufala - mozz+ricotta+salame+ins.mista con 1 pane",
+    "categoria": "secondi",
+    "prezzo": 8.0
+  },
+  {
+    "id": 75,
+    "piatto": "supplemento polenta 2 fette",
+    "categoria": "secondi",
+    "prezzo": 0.5
+  },
+  {
+    "id": 78,
+    "piatto": "Funghi",
+    "categoria": "contorni",
+    "prezzo": 2.5
+  },
+  {
+    "id": 80,
+    "piatto": "Patate fritte",
+    "categoria": "contorni",
+    "prezzo": 3.0
+  },
+  {
+    "id": 113,
+    "piatto": "Acqua frizzante 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 176,
+    "piatto": "Cono Amarena",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 177,
+    "piatto": "Cono Croccantino",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 178,
+    "piatto": "Coppa Cioccolato",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 179,
+    "piatto": "Coppa Caffè",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 180,
+    "piatto": "Coppa Amarena",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 42,
+    "piatto": "Gnocchi alla Boscaiola",
+    "categoria": "primi",
+    "prezzo": 6.0
+  },
+  {
+    "id": 44,
+    "piatto": "Gnocchi Ragù",
+    "categoria": "primi",
+    "prezzo": 6.0
+  },
+  {
+    "id": 114,
+    "piatto": "Acqua naturale 1 litro",
+    "categoria": "bar",
+    "prezzo": 1.5
+  },
+  {
+    "id": 124,
+    "piatto": "Birra rossa piccola (20cl)",
+    "categoria": "bar",
+    "prezzo": 3.5
+  },
+  {
+    "id": 131,
+    "piatto": "Vino bicchiere prosecco",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 137,
+    "piatto": "Vino bianco 1 litro",
+    "categoria": "bar",
+    "prezzo": 5.0
+  },
+  {
+    "id": 182,
+    "piatto": "Duetto",
+    "categoria": "Vario",
+    "prezzo": 2.2
+  },
+  {
+    "id": 184,
+    "piatto": "Granulato",
+    "categoria": "Vario",
+    "prezzo": 1.6
+  },
+  {
+    "id": 45,
+    "piatto": "Gnocchi Pomodoro",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 47,
+    "piatto": "Penne Boscaiola",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 139,
+    "piatto": "Vino prosecco 1 litro",
+    "categoria": "bar",
+    "prezzo": 7.0
+  },
+  {
+    "id": 211,
+    "piatto": "Caffè",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 149,
+    "piatto": "Acqua brillante lattina",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 185,
+    "piatto": "SteccoMoro",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 186,
+    "piatto": "Stecco Blocco",
+    "categoria": "Vario",
+    "prezzo": 2.4
+  },
+  {
+    "id": 48,
+    "piatto": "Penne Amatriciana",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 3,
+    "piatto": "Penne Ragù",
+    "categoria": "primi",
+    "prezzo": 5.5
+  },
+  {
+    "id": 4,
+    "piatto": "Penne Pomodoro",
+    "categoria": "primi",
+    "prezzo": 5.0
+  },
+  {
+    "id": 51,
+    "piatto": "Spaghetti Pomodoro",
+    "categoria": "primi",
+    "prezzo": 5.0
+  },
+  {
+    "id": 218,
+    "piatto": "Gnocchi in bianco",
+    "categoria": "primi",
+    "prezzo": 4.0
+  },
+  {
+    "id": 220,
+    "piatto": "Spaghetti in bianco",
+    "categoria": "primi",
+    "prezzo": 4.0
+  },
+  {
+    "id": 196,
+    "piatto": "Cheese cake fragoline",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 231,
+    "piatto": "Crema al cocco",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 206,
+    "piatto": "Sacher SG",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 230,
+    "piatto": "Crema al caffè",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 192,
+    "piatto": "Limoncello",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 187,
+    "piatto": "Long John",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 172,
+    "piatto": "Vino rabosello 1 litro",
+    "categoria": "Vario",
+    "prezzo": 7.0
+  },
+  {
+    "id": 170,
+    "piatto": "Vino rosso 1 litro",
+    "categoria": "Vario",
+    "prezzo": 5.0
+  },
+  {
+    "id": 169,
+    "piatto": "Vino bianco 1 litro",
+    "categoria": "Vario",
+    "prezzo": 5.0
+  },
+  {
+    "id": 217,
+    "piatto": "Vino rabosello 1/4L",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 168,
+    "piatto": "Vino rabosello 1/2 litro",
+    "categoria": "Vario",
+    "prezzo": 4.0
+  },
+  {
+    "id": 167,
+    "piatto": "Vino prosecco 1/2 litro",
+    "categoria": "Vario",
+    "prezzo": 4.0
+  },
+  {
+    "id": 166,
+    "piatto": "Vino rosso 1/2 litro",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 165,
+    "piatto": "Vino bianco 1/2 litro",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 163,
+    "piatto": "Vino bicchiere prosecco",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 162,
+    "piatto": "Vino bicchiere rosso",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 161,
+    "piatto": "Vino bicchiere bianco",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 159,
+    "piatto": "Birra bottiglia Beck's",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 158,
+    "piatto": "Birra bottiglia Ceres",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 157,
+    "piatto": "Birra rossa media (40cl)",
+    "categoria": "Vario",
+    "prezzo": 5.5
+  },
+  {
+    "id": 156,
+    "piatto": "Birra rossa piccola (20cl)",
+    "categoria": "Vario",
+    "prezzo": 3.5
+  },
+  {
+    "id": 155,
+    "piatto": "Birra bionda media (40cl)",
+    "categoria": "Vario",
+    "prezzo": 4.5
+  },
+  {
+    "id": 154,
+    "piatto": "Birra bionda piccola (20cl)",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 151,
+    "piatto": "Tè pesca lattina",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 150,
+    "piatto": "Tè limone lattina ",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 148,
+    "piatto": "Fanta lattina",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 147,
+    "piatto": "Coca cola lattina",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 153,
+    "piatto": "Fanta 1,5 litri",
+    "categoria": "Vario",
+    "prezzo": 4.0
+  },
+  {
+    "id": 152,
+    "piatto": "Coca cola 1,5 litri",
+    "categoria": "Vario",
+    "prezzo": 4.0
+  },
+  {
+    "id": 146,
+    "piatto": "Acqua frizzante 1 litro",
+    "categoria": "Vario",
+    "prezzo": 1.5
+  },
+  {
+    "id": 145,
+    "piatto": "Acqua naturale 1 litro",
+    "categoria": "Vario",
+    "prezzo": 1.5
+  },
+  {
+    "id": 144,
+    "piatto": "Acqua Frizzante 1/2L",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 213,
+    "piatto": "Caffè lungo",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 140,
+    "piatto": "Vino rabosello 1 litro",
+    "categoria": "bar",
+    "prezzo": 7.0
+  },
+  {
+    "id": 138,
+    "piatto": "Vino rosso 1 litro",
+    "categoria": "bar",
+    "prezzo": 5.0
+  },
+  {
+    "id": 136,
+    "piatto": "Vino rabosello 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 4.0
+  },
+  {
+    "id": 135,
+    "piatto": "Vino prosecco 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 4.0
+  },
+  {
+    "id": 134,
+    "piatto": "Vino rosso 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 3.0
+  },
+  {
+    "id": 133,
+    "piatto": "Vino bianco 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 3.0
+  },
+  {
+    "id": 224,
+    "piatto": "Vino rabosello 1/4 litro",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 223,
+    "piatto": "Vino prosecco 1/4 litro",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 222,
+    "piatto": "Vino Rosso 1/4 litro",
+    "categoria": "bar",
+    "prezzo": 1.5
+  },
+  {
+    "id": 132,
+    "piatto": "Vino bicchiere rabosello",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 130,
+    "piatto": "Vino bicchiere rosso",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 129,
+    "piatto": "Vino bicchiere Bianco",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 128,
+    "piatto": "Birra bottiglia NO GLUTINE",
+    "categoria": "bar",
+    "prezzo": 2.5
+  },
+  {
+    "id": 127,
+    "piatto": "Birra bottiglia Beck's",
+    "categoria": "bar",
+    "prezzo": 2.5
+  },
+  {
+    "id": 126,
+    "piatto": "Birra bottiglia Ceres",
+    "categoria": "bar",
+    "prezzo": 3.0
+  },
+  {
+    "id": 123,
+    "piatto": "Birra bionda media (40cl)",
+    "categoria": "bar",
+    "prezzo": 4.5
+  },
+  {
+    "id": 122,
+    "piatto": "Birra bionda piccola (20cl)",
+    "categoria": "bar",
+    "prezzo": 2.5
+  },
+  {
+    "id": 121,
+    "piatto": "Fanta 1,5 litri",
+    "categoria": "bar",
+    "prezzo": 4.0
+  },
+  {
+    "id": 120,
+    "piatto": "Coca cola 1,5 litri",
+    "categoria": "bar",
+    "prezzo": 4.0
+  },
+  {
+    "id": 119,
+    "piatto": "Tè pesca lattina",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 118,
+    "piatto": "Tè limone lattina",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 117,
+    "piatto": "Fanta lattina",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 116,
+    "piatto": "Coca cola lattina",
+    "categoria": "bar",
+    "prezzo": 2.0
+  },
+  {
+    "id": 112,
+    "piatto": "Acqua naturale 1/2 litro",
+    "categoria": "bar",
+    "prezzo": 1.0
+  },
+  {
+    "id": 201,
+    "piatto": "Tiramisù",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 200,
+    "piatto": "Meringata",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 203,
+    "piatto": "Tartufata",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 225,
+    "piatto": "Amaro Diesus",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 204,
+    "piatto": "Profitterols al cacao",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 226,
+    "piatto": "Amaretto Veneziano",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 205,
+    "piatto": "Crumble di pere SG",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 227,
+    "piatto": "Crema Whisky Baileys",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 208,
+    "piatto": "Mousse alla Fragola MP",
+    "categoria": "Vario",
+    "prezzo": 3.5
+  },
+  {
+    "id": 232,
+    "piatto": "Amaro Melagrana",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 174,
+    "piatto": "Patatine",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 228,
+    "piatto": "Crema Mandarino",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 229,
+    "piatto": "Crema Pistacchio",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  },
+  {
+    "id": 233,
+    "piatto": "Birra senza glutine",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 195,
+    "piatto": "Dolce",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 209,
+    "piatto": "Pistacchio e Nocciola MP",
+    "categoria": "Vario",
+    "prezzo": 3.5
+  },
+  {
+    "id": 197,
+    "piatto": "Cheese Cake Caramello",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 210,
+    "piatto": "Caffè macchiato",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 198,
+    "piatto": "Crostata Mandorle",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 214,
+    "piatto": "Vino Bianco 1/4L",
+    "categoria": "Vario",
+    "prezzo": 1.5
+  },
+  {
+    "id": 190,
+    "piatto": "Amando Cacao",
+    "categoria": "Vario",
+    "prezzo": 2.3
+  },
+  {
+    "id": 212,
+    "piatto": "Caffè Deka",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 215,
+    "piatto": "Vino Rosso 1/4L",
+    "categoria": "Vario",
+    "prezzo": 1.5
+  },
+  {
+    "id": 234,
+    "piatto": "Deka Macchiato",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 199,
+    "piatto": "Torta della Nonna",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 235,
+    "piatto": "Deka Lungo",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 219,
+    "piatto": "Penne in bianco",
+    "categoria": "primi",
+    "prezzo": 4.0
+  },
+  {
+    "id": 143,
+    "piatto": "Naturale 1/2L",
+    "categoria": "Vario",
+    "prezzo": 1.0
+  },
+  {
+    "id": 191,
+    "piatto": "Amando Frutta",
+    "categoria": "Vario",
+    "prezzo": 2.2
+  },
+  {
+    "id": 193,
+    "piatto": "Liquirizia",
+    "categoria": "Vario",
+    "prezzo": 2.5
+  },
+  {
+    "id": 77,
+    "piatto": "Faglioli con cipolla",
+    "categoria": "contorni",
+    "prezzo": 2.5
+  },
+  {
+    "id": 221,
+    "piatto": "Vino bianco 1/4 Litro",
+    "categoria": "bar",
+    "prezzo": 1.5
+  },
+  {
+    "id": 216,
+    "piatto": "Vino prosecco 1/4L",
+    "categoria": "Vario",
+    "prezzo": 2.0
+  },
+  {
+    "id": 194,
+    "piatto": "Amaro",
+    "categoria": "Vario",
+    "prezzo": 3.0
+  }
 ]
