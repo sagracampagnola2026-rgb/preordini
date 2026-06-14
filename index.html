@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>Preordini - Festa</title>
+
+   <link rel="stylesheet" href="assets/css/style.css" />
+   <script src="assets/js/qrcode.min.js"></script>
+   <script defer src="assets/js/app.js"></script>
+</head>
+
+<body>
+   <div class="app-shell">
+
+      <section id="page-menu" class="page is-active">
+         <header class="app-header">
+            <img src="assets/img/logo-camboroso.png" alt="Cambroso in festa" class="app-logo" />
+            <p class="app-subtitle">Preordina dal tavolo e presenta il QR alla cassa</p>
+         </header>
+
+         <main class="page-content">
+            <section class="card customer-card">
+               <p class="required-note">* Campi obbligatori</p>
+
+               <label for="nomecliente">Nome cliente *</label>
+               <input type="text" id="nomecliente" autocomplete="name" placeholder="Es. Mario Rossi" />
+
+               <div class="form-grid">
+                  <div>
+                     <label for="tavolo">Numero tavolo *</label>
+                     <input type="number" id="tavolo" inputmode="numeric" placeholder="Es. 12" />
+                  </div>
+
+                  <div>
+                     <label for="coperti">Coperti *</label>
+                     <input type="number" id="coperti" inputmode="numeric" min="1" placeholder="Es. 4" />
+                  </div>
+               </div>
+            </section>
+
+            <section id="menu-container" class="menu-container"></section>
+         </main>
+
+         <footer class="bottom-actions">
+            <button id="resoconto-btn" class="btn btn-primary">Vedi resoconto</button>
+            <button id="elimina-ordine-btn" class="btn btn-danger">Elimina ordine</button>
+         </footer>
+      </section>
+
+      <section id="page-riepilogo" class="page">
+         <header class="app-header compact">
+            <h1>Riepilogo ordine</h1>
+            <p>Controlla i dati prima di generare il QR code</p>
+         </header>
+
+         <main class="page-content">
+            <section id="riepilogo-container" class="card"></section>
+         </main>
+
+         <footer class="bottom-actions">
+            <button id="modifica-btn" class="btn btn-secondary">Modifica ordine</button>
+            <button id="conferma-btn" class="btn btn-primary">Conferma ordine</button>
+         </footer>
+      </section>
+
+      <section id="page-qr" class="page">
+         <header class="app-header compact">
+            <h1>Ordine pronto</h1>
+            <p>Presenta questo QR code alla cassa</p>
+         </header>
+
+         <main class="page-content qr-page">
+            <section class="card qr-card">
+               <div id="qrcode"></div>
+               <p class="qr-note">Dopo la generazione del QR, l’ordine viene azzerato automaticamente.</p>
+            </section>
+         </main>
+
+         <footer class="bottom-actions single">
+            <button id="nuovo-ordine-btn" class="btn btn-primary">Nuovo ordine</button>
+         </footer>
+      </section>
+
+   </div>
+
+   <div id="toast" class="toast" aria-live="polite"></div>
+</body>
+</html>
