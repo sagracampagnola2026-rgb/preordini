@@ -26,25 +26,25 @@
   {
     "id": 164,
     "piatto": "Vino bicchiere rabosello",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 183,
     "piatto": "Donny",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.6
   },
   {
     "id": 188,
     "piatto": "Ghiacciolo",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 207,
     "piatto": "Vegana alle carote",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": 202,
     "piatto": "Mousse al limone",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -230,7 +230,7 @@
   {
     "id": 175,
     "piatto": "Cono Panna",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -260,7 +260,7 @@
   {
     "id": 171,
     "piatto": "Vino prosecco 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 7.0
   },
   {
@@ -278,7 +278,7 @@
   {
     "id": 181,
     "piatto": "Sansonì",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -314,31 +314,31 @@
   {
     "id": 176,
     "piatto": "Cono Amarena",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 177,
     "piatto": "Cono Croccantino",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 178,
     "piatto": "Coppa Cioccolato",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 179,
     "piatto": "Coppa Caffè",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 180,
     "piatto": "Coppa Amarena",
-    "categoria": "Vario ",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -380,13 +380,13 @@
   {
     "id": 182,
     "piatto": "Duetto",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.2
   },
   {
     "id": 184,
     "piatto": "Granulato",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.6
   },
   {
@@ -410,25 +410,25 @@
   {
     "id": 211,
     "piatto": "Caffè",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 149,
     "piatto": "Acqua brillante lattina",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 185,
     "piatto": "SteccoMoro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 186,
     "piatto": "Stecco Blocco",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.4
   },
   {
@@ -470,199 +470,199 @@
   {
     "id": 196,
     "piatto": "Cheese cake fragoline",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 231,
     "piatto": "Crema al cocco",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 206,
     "piatto": "Sacher SG",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 230,
     "piatto": "Crema al caffè",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 192,
     "piatto": "Limoncello",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 187,
     "piatto": "Long John",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 172,
     "piatto": "Vino rabosello 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 7.0
   },
   {
     "id": 170,
     "piatto": "Vino rosso 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 5.0
   },
   {
     "id": 169,
     "piatto": "Vino bianco 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 5.0
   },
   {
     "id": 217,
     "piatto": "Vino rabosello 1/4L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 168,
     "piatto": "Vino rabosello 1/2 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 4.0
   },
   {
     "id": 167,
     "piatto": "Vino prosecco 1/2 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 4.0
   },
   {
     "id": 166,
     "piatto": "Vino rosso 1/2 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 165,
     "piatto": "Vino bianco 1/2 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 163,
     "piatto": "Vino bicchiere prosecco",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 162,
     "piatto": "Vino bicchiere rosso",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 161,
     "piatto": "Vino bicchiere bianco",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 159,
     "piatto": "Birra bottiglia Beck's",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 158,
     "piatto": "Birra bottiglia Ceres",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 157,
     "piatto": "Birra rossa media (40cl)",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 5.5
   },
   {
     "id": 156,
     "piatto": "Birra rossa piccola (20cl)",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.5
   },
   {
     "id": 155,
     "piatto": "Birra bionda media (40cl)",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 4.5
   },
   {
     "id": 154,
     "piatto": "Birra bionda piccola (20cl)",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 151,
     "piatto": "Tè pesca lattina",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 150,
     "piatto": "Tè limone lattina ",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 148,
     "piatto": "Fanta lattina",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 147,
     "piatto": "Coca cola lattina",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 153,
     "piatto": "Fanta 1,5 litri",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 4.0
   },
   {
     "id": 152,
     "piatto": "Coca cola 1,5 litri",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 4.0
   },
   {
     "id": 146,
     "piatto": "Acqua frizzante 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.5
   },
   {
     "id": 145,
     "piatto": "Acqua naturale 1 litro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.5
   },
   {
     "id": 144,
     "piatto": "Acqua Frizzante 1/2L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 213,
     "piatto": "Caffè lungo",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
@@ -812,157 +812,157 @@
   {
     "id": 201,
     "piatto": "Tiramisù",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 200,
     "piatto": "Meringata",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 203,
     "piatto": "Tartufata",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 225,
     "piatto": "Amaro Diesus",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 204,
     "piatto": "Profitterols al cacao",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 226,
     "piatto": "Amaretto Veneziano",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 205,
     "piatto": "Crumble di pere SG",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 227,
     "piatto": "Crema Whisky Baileys",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 208,
     "piatto": "Mousse alla Fragola MP",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.5
   },
   {
     "id": 232,
     "piatto": "Amaro Melagrana",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 174,
     "piatto": "Patatine",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 228,
     "piatto": "Crema Mandarino",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 229,
     "piatto": "Crema Pistacchio",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   },
   {
     "id": 233,
     "piatto": "Birra senza glutine",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 195,
     "piatto": "Dolce",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 209,
     "piatto": "Pistacchio e Nocciola MP",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.5
   },
   {
     "id": 197,
     "piatto": "Cheese Cake Caramello",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 210,
     "piatto": "Caffè macchiato",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 198,
     "piatto": "Crostata Mandorle",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 214,
     "piatto": "Vino Bianco 1/4L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.5
   },
   {
     "id": 190,
     "piatto": "Amando Cacao",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.3
   },
   {
     "id": 212,
     "piatto": "Caffè Deka",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 215,
     "piatto": "Vino Rosso 1/4L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.5
   },
   {
     "id": 234,
     "piatto": "Deka Macchiato",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 199,
     "piatto": "Torta della Nonna",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
     "id": 235,
     "piatto": "Deka Lungo",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
@@ -974,19 +974,19 @@
   {
     "id": 143,
     "piatto": "Naturale 1/2L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 1.0
   },
   {
     "id": 191,
     "piatto": "Amando Frutta",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.2
   },
   {
     "id": 193,
     "piatto": "Liquirizia",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.5
   },
   {
@@ -1004,13 +1004,13 @@
   {
     "id": 216,
     "piatto": "Vino prosecco 1/4L",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 2.0
   },
   {
     "id": 194,
     "piatto": "Amaro",
-    "categoria": "Vario",
+    "categoria": """",
     "prezzo": 3.0
   }
 ]
